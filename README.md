@@ -6,7 +6,7 @@
 - ボタンをクリックするとAPIで取得したデータで様々な店舗の状況を可視化する仕組みを作りました。
 
 ## ③アプリのデプロイURL
-
+https://tsat08ryuma.github.io/kadai05_api/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: NA
