@@ -6,9 +6,9 @@
 - ボタンをクリックするとAPIで取得したデータで様々な店舗の状況を可視化する仕組みを作りました。
 
 ## ③アプリのデプロイURL
-https://tsat08ryuma.github.io/kadai05_api/
-※e-statのAPIを取得して入力ください
-https://www.e-stat.go.jp/api/
+- https://tsat08ryuma.github.io/kadai05_api/
+- ※e-statのAPIを取得して入力ください https://www.e-stat.go.jp/api/
+- ※VS CodeのOpen with Live Serverで開いてください
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: NA
@@ -26,3 +26,4 @@ https://www.e-stat.go.jp/api/
 ## ⑦フリー項目（感想、シェアしたいこと等なんでも）
 
 - 人間の手では大変なことも一瞬で実現してくれる。プログラミングはすごい
+
