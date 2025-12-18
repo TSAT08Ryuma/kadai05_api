@@ -1,0 +1,27 @@
+#map {
+        height: 520px;
+        margin-top: 12px;
+}
+#table1{
+    width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+th, td {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 6px 10px;
+}
+thead th {
+  text-align: center;
+}
+
+/* 本文：デフォルトは右揃え */
+tbody td {
+  text-align: right;
+}
+
+/* 本文：1列目だけ左揃え */
+tbody td:first-child {
+  text-align: left;
+}
+    
