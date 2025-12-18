@@ -7,6 +7,8 @@
 
 ## ③アプリのデプロイURL
 https://tsat08ryuma.github.io/kadai05_api/
+※e-statのAPIを取得して入力ください
+https://www.e-stat.go.jp/api/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: NA
@@ -22,4 +24,5 @@ https://tsat08ryuma.github.io/kadai05_api/
 - e-Stat君使い悪すぎて震えました…！！！
 
 ## ⑦フリー項目（感想、シェアしたいこと等なんでも）
+
 - 人間の手では大変なことも一瞬で実現してくれる。プログラミングはすごい
